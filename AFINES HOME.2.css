@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+header { display: flex }
+
+nav { width: 100%; background-color:#417F74; text-align: center; padding: 5% }
+nav a { width: 15%;  text-align: center; font-family: "Helvetica Neue"; text-decoration: none; color:#417F74; padding: 8px; margin-left: 12px; margin-right: 12px; background-color: white; border-radius: 11% }
+
+nav .fotologo { background-color: transparent }
+
+h1 { font-family: "Helvetica Neue"; color: #417F74; text-align: center; font-size: 24px }
+
+h2 { font-family: "Helvetica Neue"; color: #417F74; text-align: center; font-size: 16px; padding-top: 4% }
+
+h3 { font-family: "Helvetica Neue"; color: white; text-align: center; font-size: 16px}
+
+h4 { font-family: "Helvetica Neue"; color: white; text-align: left; font-size: 18px}
+
+section img { width: 100% }
+
+footer { background-color:#417F74; padding-top: 5%; padding-bottom: 5%; padding-left: 5%; text-align:left; font-family:"Helvetica Neue"; text-decoration: none; color:white; line-height: 3 }
+footer A { text-decoration: none; color:white }
+footer img { width: 5% }
+.contacto div { display:flex; line-height: 1.5 }
